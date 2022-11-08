@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "493251234683",
+    "project_id": "padosee-6e284",
+    "storage_bucket": "padosee-6e284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493251234683:android:32d3e94e9e3f62c8934bde",
+        "android_client_info": {
+          "package_name": "com.example.padosee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493251234683-fdtrpcnbs6g0eaftsbvlmv2fkqsp6h0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.padosee",
+            "certificate_hash": "28eb205d58067541ce0407fc55530377848dbd84"
+          }
+        },
+        {
+          "client_id": "493251234683-ne23a7tatqvsmvrm1sopni88o4acs3t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxLuqBFIdC6t2-XqnkIegfM1IWGnnM40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493251234683-ne23a7tatqvsmvrm1sopni88o4acs3t0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493251234683-0m8h9ik8665fo74j4dc7g0kb6pqsap49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.padosee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
